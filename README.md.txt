@@ -1,0 +1,1 @@
+﻿To execute the program we require two documents "Cut_taskb.txt" and "orig_taskb.txt" which I have attached in the zip file. There are some dependencies in the program spacy, pandas, networkx, matplotlib, numpy.
